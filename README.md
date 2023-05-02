@@ -1,2 +1,2 @@
 # algoritmosBusqueda
-Compilado de ejercicios de busqueda utilizando algoritmos de busqueda lineal y busqueda binaria.
+Compilado de ejercicios de búsqueda utilizando algoritmos de búsqueda lineal y búsqueda binaria.
